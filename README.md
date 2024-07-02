@@ -50,6 +50,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Your Name - [hassanjebli2002@gmail.com](mailto:hassanjebli2002@gmail.com)
+Hassan AIT-JABLI - [hassanjebli2002@gmail.com](mailto:hassanjebli2002@gmail.com)
 
 Project Link: [https://github.com/hassanjebli/todo-list-app](https://github.com/hassanjebli/todo-list-app)
