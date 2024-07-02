@@ -52,4 +52,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Your Name - [hassanjebli2002@gmail.com](mailto:hassanjebli2002@gmail.com)
 
-Project Link: [https://github.com/yourusername/todo-list-app](https://github.com/hassanjebli/todo-list-app)
+Project Link: [https://github.com/hassanjebli/todo-list-app](https://github.com/hassanjebli/todo-list-app)
