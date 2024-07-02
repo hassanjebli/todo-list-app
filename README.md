@@ -25,7 +25,7 @@ This Todo List application is a sleek, user-friendly web-based task management t
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/hassanjebli/todo-list-app.git
 
 2. Navigate to the project directory:
 
@@ -47,12 +47,9 @@ git clone https://github.com/yourusername/todo-list-app.git
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [hassanjebli2002@gmail.com](mailto:hassanjebli2002@gmail.com)
 
-Project Link: [https://github.com/yourusername/todo-list-app](https://github.com/yourusername/todo-list-app)
+Project Link: [https://github.com/yourusername/todo-list-app](https://github.com/hassanjebli/todo-list-app)
