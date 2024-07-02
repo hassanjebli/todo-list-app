@@ -41,7 +41,7 @@ git clone https://github.com/hassanjebli/todo-list-app.git
 
 ## Screenshots
 
-[![Capture](https://github.com/hassanjebli/todo-list-app/assets/151209380/95ea30c1-87f5-4d9e-9a54-d0a68f87a0c4)]
+![Capture](https://github.com/hassanjebli/todo-list-app/assets/151209380/95ea30c1-87f5-4d9e-9a54-d0a68f87a0c4)
 
 ## Contributing
 
