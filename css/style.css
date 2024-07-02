@@ -1,0 +1,116 @@
+
+body {
+    background: #eee;
+    min-height: 90vh;
+}
+.container {
+    max-width: 600px;
+}
+.todo-header {
+    background-color: #6a11cb;
+    color: white;
+    border-radius: 15px 15px 0 0;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.todo-body {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 0 0 15px 15px;
+    padding: 20px;
+}
+.todo-input {
+    border: none;
+    border-bottom: 2px solid #6a11cb;
+    border-radius: 0;
+}
+.todo-input:focus {
+    box-shadow: none;
+    border-color: #2575fc;
+}
+.btn-add {
+    background-color: #6a11cb;
+    color: white;
+    border: none;
+}
+.btn-add:hover {
+    background-color: #2575fc;
+}
+.todo-item {
+    background-color: white;
+    border-left: 5px solid #6a11cb;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.todo-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.todo-actions .btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    margin-left: 5px;
+}
+.btn-edit {
+    color: #ffc107;
+}
+.btn-complete {
+    color: #28a745;
+}
+.btn-close{
+    color: red;
+}
+.btn-delete {
+    color: #dc3545;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.todo-content {
+    flex-grow: 1;
+}
+
+.todo-title {
+    font-weight: 500;
+}
+
+.todo-date {
+    display: block;
+    font-size: 0.8rem;
+    margin-top: 2px;
+}
+
+.todo-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.edit-input {
+    border: none;
+    border-bottom: 2px solid #6a11cb;
+    border-radius: 0;
+    width: 100%;
+}
+
+.todo-item.completed {
+    background-color: #e9ecef;
+    border-left-color: #28a745;
+}
+
+.todo-item.completed .todo-title {
+    text-decoration: line-through;
+    color: #6c757d;
+}
