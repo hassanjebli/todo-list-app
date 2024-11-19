@@ -1,0 +1,114 @@
+//     <div className="form-container">
+//       <form className="form-card row w-75 mx-auto g-3" onSubmit={handleSubmit}>
+//         {/* Start: Header */}
+//         <h3 className="form-header">Registration Form</h3>
+//         {/* End: Header */}
+//         {/* Start: First Name */}
+//         <div className="col-md-6">
+//           <label htmlFor="fname" className="form-label">
+//             First Name
+//           </label>
+//           <input
+//             type="text"
+//             className="form-control"
+//             id="fname"
+//             placeholder="Enter your first name"
+//             onChange={handleChange}
+//           />
+//         </div>
+//         {/* End: First Name */}
+//         {/* Start: Last Name */}
+//         <div className="col-md-6">
+//           <label htmlFor="lname" className="form-label">
+//             Last Name
+//           </label>
+//           <input
+//             type="text"
+//             className="form-control"
+//             id="lname"
+//             placeholder="Enter your last name"
+//             onChange={handleChange}
+//           />
+//         </div>
+//         {/* End: Last Name */}
+//         {/* Start: Username */}
+//         <div className="col-md-6">
+//           <label htmlFor="username" className="form-label">
+//             Username
+//           </label>
+//           <div className="input-group">
+//             <span className="input-group-text">@</span>
+//             <input
+//               type="text"
+//               className="form-control"
+//               id="username"
+//               placeholder="Choose a username"
+//               onChange={handleChange}
+//             />
+//           </div>
+//         </div>
+//         {/* End: Username */}
+//         {/* Start: City */}
+//         <div className="col-md-6">
+//           <label htmlFor="city" className="form-label">
+//             City
+//           </label>
+//           <input
+//             type="text"
+//             className="form-control"
+//             id="validationServer03"
+//             placeholder="Enter your city"
+//             onChange={handleChange}
+//           />
+//         </div>
+//         {/* End: City */}
+//         {/* Start: State */}
+//         <div className="col-md-6">
+//           <label htmlFor="state" className="form-label">
+//             State
+//           </label>
+//           <select className="form-select" id="state" onChange={handleChange}>
+//             <option value="">Choose...</option>
+//             <option value="soussmass">Souss Massa</option>
+//             <option value="casablanca">Casablanca</option>
+//           </select>
+//         </div>
+//         {/* End: State */}
+//         {/* Start: Zip */}
+//         <div className="col-md-6">
+//           <label htmlFor="zip" className="form-label">
+//             Zip
+//           </label>
+//           <input
+//             type="text"
+//             className="form-control"
+//             id="zip"
+//             placeholder="Enter ZIP code"
+//             onChange={handleChange}
+//           />
+//         </div>
+//         {/* End: Zip */}
+//         {/* Start: Conditions */}
+//         <div className="col-12">
+//           <div className="form-check">
+//             <input
+//               className="form-check-input"
+//               type="checkbox"
+//               id="conditions"
+//               onChange={handleChange}
+//             />
+//             <label className="form-check-label" htmlFor="conditions">
+//               Agree to terms and conditions
+//             </label>
+//           </div>
+//         </div>
+//         {/* End: Conditions */}
+//         {/* Start: Button */}
+//         <div className="col-12">
+//           <button className="btn btn-submit w-100" type="submit">
+//             Submit
+//           </button>
+//         </div>
+//         {/* End: Button */}
+//       </form>
+//     </div>
